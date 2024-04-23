@@ -1,3 +1,10 @@
 {
-"success": true
+"success": true,
+  data:
+  {
+  name: "zaid",
+  email:"zaid@gmail.com",
+  age: 30,
+  profilePic: "https://i.pinimg.com/474x/4d/e0/0c/4de00c6eb47c4503502169d1bd26468f.jpg"
+  }
 }
