@@ -3,7 +3,7 @@
   "data" : [
       {
         "userId": 1,
-        "emailId" : "abc@gmail.com",
+        "emailId" : "zaid@gmail.com",
         "name" : "abc",
         "posttype": "text",
         "post" : "I am being tortured right now",
@@ -16,7 +16,7 @@
       },
     {
       "userId": 1,
-      "emailId": "abc@gmail.com",
+      "emailId": "zaid@gmail.com",
       "name": "abc",
       "posttype": "text",
       "post": "Just finished my first marathon! It was an incredible experience, pushing my limits and achieving a lifelong goal. Can't wait for the next one!",
@@ -64,7 +64,7 @@
     },
     {
       "userId": 1,
-      "emailId": "abc@gmail.com",
+      "emailId": "zaid@gmail.com",
       "name": "abc",
       "posttype": "text",
       "post": "Just landed my dream job, hard work pays off! After countless interviews and rejections, this moment feels surreal. Ready to make an impact!",
