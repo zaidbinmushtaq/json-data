@@ -10,7 +10,8 @@
         "likescount" : 23,
         "comments" : 5,
         "visible" : true,
-        "createdAt" : "24/01/2023"
+        "createdAt" : "24/01/2023",
+        "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
         
       },
     {
@@ -22,7 +23,8 @@
       "likescount": 105,
       "comments": 12,
       "visible": true,
-      "createdAt": "15/07/2023"
+      "createdAt": "15/07/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 3,
@@ -33,7 +35,8 @@
       "likescount": 67,
       "comments": 8,
       "visible": true,
-      "createdAt": "02/11/2023"
+      "createdAt": "02/11/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 4,
@@ -44,7 +47,8 @@
       "likescount": 312,
       "comments": 28,
       "visible": true,
-      "createdAt": "19/04/2023"
+      "createdAt": "19/04/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 5,
@@ -55,7 +59,8 @@
       "likescount": 450,
       "comments": 35,
       "visible": true,
-      "createdAt": "30/09/2023"
+      "createdAt": "30/09/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 1,
@@ -66,7 +71,8 @@
       "likescount": 872,
       "comments": 42,
       "visible": true,
-      "createdAt": "12/02/2023"
+      "createdAt": "12/02/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 3,
@@ -77,7 +83,8 @@
       "likescount": 206,
       "comments": 15,
       "visible": true,
-      "createdAt": "05/06/2023"
+      "createdAt": "05/06/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 8,
@@ -88,7 +95,8 @@
       "likescount": 431,
       "comments": 20,
       "visible": true,
-      "createdAt": "23/10/2023"
+      "createdAt": "23/10/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 9,
@@ -99,7 +107,8 @@
       "likescount": 78,
       "comments": 7,
       "visible": true,
-      "createdAt": "08/03/2023"
+      "createdAt": "08/03/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 10,
@@ -110,7 +119,8 @@
       "likescount": 598,
       "comments": 30,
       "visible": true,
-      "createdAt": "17/08/2023"
+      "createdAt": "17/08/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     },
     {
       "userId": 11,
@@ -121,7 +131,8 @@
       "likescount": 1234,
       "comments": 50,
       "visible": true,
-      "createdAt": "29/01/2023"
+      "createdAt": "29/01/2023",
+      "profilePic" : "https://profilemagazine.com/wp-content/uploads/2020/04/Ajmere-Dale-Square-thumbnail.jpg"
     }    
   ]
   
