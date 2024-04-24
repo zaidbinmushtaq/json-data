@@ -1,0 +1,128 @@
+{
+  "success" : true,
+  "data" : [
+      {
+        "userId": 1,
+        "emailId" : "abc@gmail.com",
+        "name" : "abc",
+        "posttype": "text",
+        "post" : "I am being tortured right now",
+        "likescount" : 23,
+        "comments" : 5,
+        "visible" : true,
+        "createdAt" : "24/01/2023"
+        
+      },
+    {
+      "userId": 1,
+      "emailId": "abc@gmail.com",
+      "name": "abc",
+      "posttype": "text",
+      "post": "Just finished my first marathon! It was an incredible experience, pushing my limits and achieving a lifelong goal. Can't wait for the next one!",
+      "likescount": 105,
+      "comments": 12,
+      "visible": true,
+      "createdAt": "15/07/2023"
+    },
+    {
+      "userId": 3,
+      "emailId": "ghi@gmail.com",
+      "name": "ghi",
+      "posttype": "text",
+      "post": "Exploring the wilderness, loving every moment! Nature's beauty is breathtaking, and every step feels like a discovery. Grateful for this adventure!",
+      "likescount": 67,
+      "comments": 8,
+      "visible": true,
+      "createdAt": "02/11/2023"
+    },
+    {
+      "userId": 4,
+      "emailId": "jkl@gmail.com",
+      "name": "jkl",
+      "posttype": "text",
+      "post": "Just adopted a puppy, meet my new best friend! It's amazing how much joy and love a furry companion can bring into your life. Ready for endless cuddles!",
+      "likescount": 312,
+      "comments": 28,
+      "visible": true,
+      "createdAt": "19/04/2023"
+    },
+    {
+      "userId": 5,
+      "emailId": "mno@gmail.com",
+      "name": "mno",
+      "posttype": "text",
+      "post": "Finished writing my first novel, what a journey! From the first word to the last, it's been a rollercoaster of emotions. Excited to share it with the world!",
+      "likescount": 450,
+      "comments": 35,
+      "visible": true,
+      "createdAt": "30/09/2023"
+    },
+    {
+      "userId": 1,
+      "emailId": "abc@gmail.com",
+      "name": "abc",
+      "posttype": "text",
+      "post": "Just landed my dream job, hard work pays off! After countless interviews and rejections, this moment feels surreal. Ready to make an impact!",
+      "likescount": 872,
+      "comments": 42,
+      "visible": true,
+      "createdAt": "12/02/2023"
+    },
+    {
+      "userId": 3,
+      "emailId": "ghi@gmail.com",
+      "name": "ghi",
+      "posttype": "text",
+      "post": "Traveling solo across Europe, feeling alive! Each city brings new experiences and challenges, but the freedom of exploration is priceless. Carpe diem!",
+      "likescount": 206,
+      "comments": 15,
+      "visible": true,
+      "createdAt": "05/06/2023"
+    },
+    {
+      "userId": 8,
+      "emailId": "vwx@gmail.com",
+      "name": "vwx",
+      "posttype": "text",
+      "post": "Just completed my first skydiving experience, exhilarating! The rush of wind and adrenaline as I jumped from the plane is a feeling like no other. Living life to the fullest!",
+      "likescount": 431,
+      "comments": 20,
+      "visible": true,
+      "createdAt": "23/10/2023"
+    },
+    {
+      "userId": 9,
+      "emailId": "yza@gmail.com",
+      "name": "yza",
+      "posttype": "text",
+      "post": "Learning to play the guitar, any tips? Strumming chords and learning melodies, music is a beautiful language. Excited for the journey ahead!",
+      "likescount": 78,
+      "comments": 7,
+      "visible": true,
+      "createdAt": "08/03/2023"
+    },
+    {
+      "userId": 10,
+      "emailId": "bcd@gmail.com",
+      "name": "bcd",
+      "posttype": "text",
+      "post": "Just ran a successful charity event, feeling blessed! Bringing people together for a good cause fills my heart with joy. Grateful for the opportunity to make a difference!",
+      "likescount": 598,
+      "comments": 30,
+      "visible": true,
+      "createdAt": "17/08/2023"
+    },
+    {
+      "userId": 11,
+      "emailId": "efg@gmail.com",
+      "name": "efg",
+      "posttype": "text",
+      "post": "Hiked to the top of Mount Everest, what a view! The world below seemed small as I stood at the peak, a moment of triumph and humility. Nature's grandeur is truly awe-inspiring!",
+      "likescount": 1234,
+      "comments": 50,
+      "visible": true,
+      "createdAt": "29/01/2023"
+    }    
+  ]
+  
+}
